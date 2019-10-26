@@ -1,0 +1,34 @@
+.but
+{
+    width:90px;
+    height: 30px;
+    border-radius: 5px;
+    position: absolute;
+}
+.but1
+{
+    display: inline;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: 329px;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 10px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color:darkred;
+    color: white;
+    text-align: center;
+  }
+  
